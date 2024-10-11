@@ -1,4 +1,4 @@
-##  Game Development 101
+##  🎓 Game Development 101
 
 Welcome to *Game Development 101*! This repo is designed for anyone who is new to game development and wants to get started with the basics.   
 
