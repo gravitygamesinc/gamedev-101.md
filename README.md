@@ -15,7 +15,7 @@ There are many ways to develop a game, and each studio/developer has its own pro
 
 ![Imagem](https://github.com/bluegravitystudios/gamedev-101.md/blob/main/ProductionPhases.png)
 
-## Pre-production  
+## 🖌 Pre-production  
 Pre-production is where your game truly begins. During this phase, you’ll develop the game's core concept, define its mechanics, and outline the overall structure. You’ll also make important decisions like which technology stack to use (e.g., Unity, Unreal Engine), assigning roles within your team, and start creating early prototypes. This is the foundation of your game, and the more thorough your planning here, the smoother the production phase will be.  
 
 **Common Steps**  
@@ -25,7 +25,7 @@ Pre-production is where your game truly begins. During this phase, you’ll deve
 - Assembling the team and choosing tools/technologies.  
 - Prototyping and testing initial concepts.
 
-## Production  
+## 🖌 Production  
 Production is where your ideas come to life. During this phase, your team will be busy creating the game’s assets—programming gameplay features, designing characters and environments, producing animations, and crafting sound effects. This stage is all about executing the plan set during pre-production while keeping an eye on deadlines and potential challenges. Collaboration between designers, developers, and artists is key to ensuring that the project stays on track.  
 
 **Common Steps**  
@@ -35,7 +35,7 @@ Production is where your ideas come to life. During this phase, your team will b
 - Regular playtesting and bug fixing.  
 - Collaboration between design, development, and QA teams.
 
-## Post-production  
+## 🖌 Post-production  
 Post-production is all about refining your game for release. At this stage, your team will focus on polishing the gameplay, fixing bugs, and ensuring the game runs smoothly across platforms. This phase also includes preparing for the game’s marketing, launch strategies, and ongoing support after release. A successful post-production phase ensures your game reaches its full potential when it finally hits the market.  
 
 **Common Steps**  
