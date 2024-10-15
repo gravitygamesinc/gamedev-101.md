@@ -3,7 +3,75 @@
 >Welcome to *Game Development 101*! This repo is designed for anyone who is new to game development and wants to get started with the basics.   
 Here, you'll find an overview of the key roles in game development, along with essential concepts and tools used in the industry. Whether you're looking to create your first indie game or just curious about how games are made, this guide will help you understand the different aspects of the game development process.
 
-There are many ways to develop a game, and each studio/developer has its own process, but they can be classified into 3 stages: Pre-production, Production, and Post-production.
-![Imagem](https://github.com/bluegravitystudios/gamedev-101.md/blob/main/Production.png)
+## Development Stages
+
+There are many ways to develop a game, and each studio/developer has its own process, but they can be classified into 3 stages:  
+
+![Imagem](https://github.com/bluegravitystudios/gamedev-101.md/blob/main/GameProduction.png)
+
+## Pre-production  
+Pre-production is where your game truly begins. During this phase, you’ll develop the game's core concept, define its mechanics, and outline the overall structure. You’ll also make important decisions like which technology stack to use (e.g., Unity, Unreal Engine), assign roles within your team, and start creating early prototypes. This is the foundation of your game, and the more thorough your planning here, the smoother the production phase will be.  
+
+**Common Steps**  
+- Concept development and brainstorming.  
+- Defining the game’s mechanics, story, and design.  
+- Creating a game design document (GDD) to guide the development.  
+- Assembling the team and choosing tools/technologies.  
+- Prototyping and testing initial concepts.
+
+## Production  
+Production is where your ideas come to life. During this phase, your team will be busy creating the game’s assets—programming gameplay features, designing characters and environments, producing animations, and crafting sound effects. This stage is all about executing the plan set during pre-production while keeping an eye on deadlines and potential challenges. Collaboration between designers, developers, and artists is key to ensuring that the project stays on track.  
+
+**Common Steps**  
+- Coding and development of gameplay mechanics.  
+- Asset creation (2D/3D art, animations, sound effects, music).  
+- Level design and environment creation.  
+- Regular playtesting and bug fixing.  
+- Collaboration between design, development, and QA teams.
+
+## Post-production  
+Post-production is all about refining your game for release. At this stage, your team will focus on polishing the gameplay, fixing bugs, and ensuring the game runs smoothly across platforms. This phase also includes preparing for the game’s marketing, launching strategies, and ongoing support after release. A successful post-production phase ensures your game reaches its full potential when it finally hits the market.  
+
+**Common Steps**  
+- Bug fixing and quality assurance (QA).  
+- Performance optimization for different platforms.  
+- Finalizing marketing materials (trailers, screenshots).  
+- Planning the game’s release strategy (platforms, regions).  
+- Post-launch support, including patches and updates.  
+
+# Development Team
+
+## Producer
+The producer is primarily responsible for project management. They coordinate the team’s efforts to ensure the game development stays on schedule, within budget, and meets quality requirements. The producer also handles communication between internal and external teams, keeps the team focused on goals, and resolves issues that may arise during production.
+
+**Common Tools**  
+To oversee the entire project, producers may use project management software such as Asana, Monday, or Trello. You can find more software options in our [Free Engines](https://github.com/bluegravitystudios/free-engines.md?tab=readme-ov-file#-production) repository.
+
+[![MORE](https://img.shields.io/badge/Return-README-808080?style=for-the-badge&logoColor=Blue)](https://github.com/bluegravitystudios/free-engines.md?tab=readme-ov-file#-production)
+
+## Developer
+Game developers are responsible for coding and implementing the game’s systems and functionalities. They work to turn the design vision into functional code, handling technical aspects such as physics, AI, gameplay, and performance optimization.
+
+
+
+**Common Tools**  
+
+
+## 2D/3D Artist
+2D and 3D artists create the game’s visuals, including characters, environments, textures, objects, and special effects. A 2D artist usually creates graphical elements such as sprites, menus, and interfaces, while a 3D artist models and animates characters and environments in three dimensions.
+
+**Common Tools**  
+
+## Game Designer
+The game designer is responsible for creating the game’s concept and mechanics. They define the rules, progression, levels, reward systems, and gameplay balance, always aiming to provide a fun and challenging experience for players.
+
+**Common Tools**  
+
+## Quality Assurance (QA)
+The QA team ensures the game works correctly by testing it for bugs, glitches, and performance issues. They document any problems and work with developers to fix them before the game’s release.
+
+**Common Tools**  
+
+
 
 [![Return](https://img.shields.io/badge/Return-README-808080?style=for-the-badge&logoColor=black)](https://github.com/bluegravitystudios/bgs-gamedev-repo/blob/main/README.md)
