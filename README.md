@@ -7,7 +7,7 @@ Here, you'll find an overview of the key roles in game development, along with e
 |----------------------------------| 
 |🖌 [Development Stages](https://github.com/bluegravitystudios/gamedev-101.md#-development-stages)|
 |🦾 [Development Team](https://github.com/bluegravitystudios/gamedev-101.md#-development-team)|
-|👀 [Get to now more](https://github.com/bluegravitystudios/gamedev-101.md#-get-to-now-more)|
+|👀 [Get to know more](https://github.com/bluegravitystudios/gamedev-101.md#-get-to-now-more)|
 
 ## 🖌 Development Stages
 
