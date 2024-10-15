@@ -13,7 +13,7 @@ Here, you'll find an overview of the key roles in game development, along with e
 
 There are many ways to develop a game, and each studio/developer has its own process, but they can be classified into 3 stages:  
 
-![Imagem](https://github.com/bluegravitystudios/gamedev-101.md/blob/main/GameProduction.png)
+![Imagem](https://github.com/bluegravitystudios/gamedev-101.md/blob/main/ProductionPhases.png)
 
 ## Pre-production  
 Pre-production is where your game truly begins. During this phase, you’ll develop the game's core concept, define its mechanics, and outline the overall structure. You’ll also make important decisions like which technology stack to use (e.g., Unity, Unreal Engine), assign roles within your team, and start creating early prototypes. This is the foundation of your game, and the more thorough your planning here, the smoother the production phase will be.  
