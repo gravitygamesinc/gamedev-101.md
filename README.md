@@ -16,7 +16,7 @@ There are many ways to develop a game, and each studio/developer has its own pro
 ![Imagem](https://github.com/bluegravitystudios/gamedev-101.md/blob/main/ProductionPhases.png)
 
 ## Pre-production  
-Pre-production is where your game truly begins. During this phase, you’ll develop the game's core concept, define its mechanics, and outline the overall structure. You’ll also make important decisions like which technology stack to use (e.g., Unity, Unreal Engine), assign roles within your team, and start creating early prototypes. This is the foundation of your game, and the more thorough your planning here, the smoother the production phase will be.  
+Pre-production is where your game truly begins. During this phase, you’ll develop the game's core concept, define its mechanics, and outline the overall structure. You’ll also make important decisions like which technology stack to use (e.g., Unity, Unreal Engine), assigning roles within your team, and start creating early prototypes. This is the foundation of your game, and the more thorough your planning here, the smoother the production phase will be.  
 
 **Common Steps**  
 - Concept development and brainstorming.  
@@ -36,7 +36,7 @@ Production is where your ideas come to life. During this phase, your team will b
 - Collaboration between design, development, and QA teams.
 
 ## Post-production  
-Post-production is all about refining your game for release. At this stage, your team will focus on polishing the gameplay, fixing bugs, and ensuring the game runs smoothly across platforms. This phase also includes preparing for the game’s marketing, launching strategies, and ongoing support after release. A successful post-production phase ensures your game reaches its full potential when it finally hits the market.  
+Post-production is all about refining your game for release. At this stage, your team will focus on polishing the gameplay, fixing bugs, and ensuring the game runs smoothly across platforms. This phase also includes preparing for the game’s marketing, launch strategies, and ongoing support after release. A successful post-production phase ensures your game reaches its full potential when it finally hits the market.  
 
 **Common Steps**  
 - Bug fixing and quality assurance (QA).  
@@ -46,7 +46,7 @@ Post-production is all about refining your game for release. At this stage, your
 - Post-launch support, including patches and updates.  
 
 # 🦾 Development Team
-Each member plays a critical role in bringing the game to life, from initial concept to final release. This section outlines the key positions within the development team, detailing their responsibilities and the tools they usually could use to ensure a seamless production process.
+Each member plays a critical role in bringing the game to life, from initial concept to final release. This section outlines the key positions within the development team, detailing their responsibilities and the tools they typically use to ensure a seamless production process.
 
 ## ⚒ Producer
 The producer is primarily responsible for project management. They coordinate the team’s efforts to ensure the game development stays on schedule, within budget, and meets quality requirements. The producer also handles communication between internal and external teams, keeps the team focused on goals, and resolves issues that may arise during production.
@@ -76,7 +76,7 @@ Game designers often use tools like Unity or Unreal Engine for prototyping, alon
 The QA team ensures the game works correctly by testing it for bugs, glitches, and performance issues. They document any problems and work with developers to fix them before the game’s release.
 
 **Common Tools**  
-QA teams frequently use bug tracking software such as JIRA or even creating a specific board view on Project Management softwares such as Asana.
+QA teams frequently use bug tracking software such as JIRA or even creating a specific board view on Project Management software such as Asana.
 
 # 👀 Get to know more
 If you're still interested in getting to know more about Game Development, Blue Gravity Studios created a series of repositories to help you on your journey.  
