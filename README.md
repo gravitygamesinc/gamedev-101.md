@@ -79,7 +79,7 @@ The QA team ensures the game works correctly by testing it for bugs, glitches, a
 QA teams frequently use bug tracking software such as JIRA or even creating a specific board view on Project Management softwares such as Asana.
 
 # 👀 Get to know more
-If you're still intereseted in getting to know more about Game Development, Blue Gravity Studios created a series of repositories to help you on your journey.  
+If you're still interested in getting to know more about Game Development, Blue Gravity Studios created a series of repositories to help you on your journey.  
 📚 [Learning Resources](https://github.com/bluegravitystudios/learning-resources.md) – A curated collection of books, courses, and tutorials to help you expand your skills.  
 ⚙ [Free Engines](https://github.com/bluegravitystudios/free-engines.md) – A selection of powerful, free-to-use game engines like Unity, Unreal Engine, and Godot.  
 🧱 [Game Development Free Resources](https://github.com/bluegravitystudios/gamedev-free-resources) – A rich library of free assets, including art, sound, and music for your projects.  
