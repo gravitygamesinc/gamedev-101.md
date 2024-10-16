@@ -9,6 +9,10 @@ Here, you'll find an overview of the key roles in game development, along with e
 |🦾 [Development Team](https://github.com/bluegravitystudios/gamedev-101.md#-development-team)|
 |👀 [Get to know more](https://github.com/bluegravitystudios/gamedev-101.md#-get-to-now-more)|
 
+🖌 [Development Stages](https://github.com/bluegravitystudios/gamedev-101.md#-development-stages)  
+🦾 [Development Team](https://github.com/bluegravitystudios/gamedev-101.md#-development-team)  
+👀 [Get to know more](https://github.com/bluegravitystudios/gamedev-101.md#-get-to-now-more)  
+
 ## 🖌 Development Stages
 
 There are many ways to develop a game, and each studio/developer has its own process, but they can be classified into 3 stages:  
