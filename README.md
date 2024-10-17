@@ -66,7 +66,7 @@ Game developers are responsible for coding and implementing the game’s systems
 Developers commonly use integrated development environments (IDEs) such as Visual Studio to code and a game engine, like Unity and Unreal Engine to gather all assets and build the game.
 
 **Begginer guide**  
- [3D Beginner: John Lemon](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-learn-3d-beginner-john-lemon-tutorial-resources-143848) -  A Unity learning resource for 3D beginners, likely featuring tutorials on creating the character John Lemon.  
+- [3D Beginner: John Lemon](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-learn-3d-beginner-john-lemon-tutorial-resources-143848) -  A Unity learning resource for 3D beginners, likely featuring tutorials on creating the character John Lemon.  
 - [Epic Games: Game Development and Prototyping](https://www.coursera.org/learn/game-development-and-prototyping) -  Learn the fundamentals of game development and rapid prototyping with Epic Games.  
 - [Epic Games: Unreal Engine Fundamentals](https://www.coursera.org/learn/unreal-engine-fundamentals) -  Get started with Unreal Engine through this foundational course by Epic Games.  
 - [How to use Godot](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) -  Explore using the Godot game engine through YouTube videos.
