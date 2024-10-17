@@ -1,3 +1,5 @@
+![GameDev101](https://github.com/bluegravitystudios/gamedev-101.md/blob/main/gamedev_101.png)
+
 #  🎓 Game Development 101
 
 >Welcome to *Game Development 101*! This repo is designed for anyone who is new to game development and wants to get started with the basics.   
