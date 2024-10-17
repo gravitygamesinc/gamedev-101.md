@@ -56,11 +56,26 @@ The producer is primarily responsible for project management. They coordinate th
 **Common Tools**  
 To oversee the entire project, producers may use project management software such as Asana, Monday, or Trello.
 
+**Begginer guide**  
+- [Udemy: An Introduction To Video Game Production](https://www.udemy.com/course/an-introduction-to-video-game-production/) -  This course goes beyond the technical aspects, offering an introduction to video game production as a whole.  
+
 ## 💻 Developer
 Game developers are responsible for coding and implementing the game’s systems and functionalities. They work to turn the design vision into functional code, handling technical aspects such as physics, AI, gameplay, and performance optimization.
 
 **Common Tools**  
 Developers commonly use integrated development environments (IDEs) such as Visual Studio to code and a game engine, like Unity and Unreal Engine to gather all assets and build the game.
+
+**Begginer guide**  
+ [3D Beginner: John Lemon](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-learn-3d-beginner-john-lemon-tutorial-resources-143848) -  A Unity learning resource for 3D beginners, likely featuring tutorials on creating the character John Lemon.  
+- [Epic Games: Game Development and Prototyping](https://www.coursera.org/learn/game-development-and-prototyping) -  Learn the fundamentals of game development and rapid prototyping with Epic Games.  
+- [Epic Games: Unreal Engine Fundamentals](https://www.coursera.org/learn/unreal-engine-fundamentals) -  Get started with Unreal Engine through this foundational course by Epic Games.  
+- [How to use Godot](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) -  Explore using the Godot game engine through YouTube videos.
+- [Introduction to Game Development](https://www.codecademy.com/learn/introduction-to-game-development) - Explore video game development, including game design, gameplay development, and asset creation.  
+- [Udemy: Create your first game in Unreal](https://www.udemy.com/course/creating-your-first-game-in-unreal-engine-5/) -  This course gets you started creating your first game using the Unreal Engine 5.  
+- [Udemy: Basics of C# and Unity for Complete Beginners - Part 1](https://www.udemy.com/course/free-part1-alexdev/) -  The first part of a free course teaching C# programming basics and their application in Unity for game development.  
+- [Udemy: Basics of C# and Unity for Complete Beginners - Part 2](https://www.udemy.com/course/free-part2-alexdev/) -  The second part of the free C# and Unity course for beginners, building upon the first part.  
+- [Udemy: Unity 3D Newbies: Create a game Fast No Coding Mini Class](https://www.udemy.com/course/unitydemo/) -  Learn how to create a simple game in Unity 3D without any coding required, great for beginners.  
+- [Udemy: Learn to create a Simple Game in Unreal Engine 5](https://www.udemy.com/course/learn-to-create-a-simple-game-in-unreal-engine-5/) -  Create a basic game in Unreal Engine 5 with this course.   
 
 ## 🎨 2D/3D Artist
 2D and 3D artists create the game’s visuals, including characters, environments, textures, objects, and special effects. A 2D artist usually creates graphical elements such as sprites, menus, and interfaces, while a 3D artist models and animates characters and environments in three dimensions.
