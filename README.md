@@ -2,8 +2,21 @@
 
 #  🎓 Game Development 101
 
->Welcome to *Game Development 101*! This repo is designed for anyone who is new to game development and wants to get started with the basics.   
+Welcome to *Game Development 101*! This repo is designed for anyone who is new to game development and wants to get started with the basics.   
 Here, you'll find an overview of the key roles in game development, along with essential concepts and tools used in the industry. Whether you're looking to create your first indie game or just curious about how games are made, this guide will help you understand the different aspects of the game development process.
+
+Didn't find what you were looking for? Check out our other repos!
+
+[//]: #Repos
+<div align="lef">
+  <a href="https://github.com/bluegravitystudios/gamedev-free-resources" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2049%402x.png" height="40" alt="Free Assets"  /></a>
+  <a href="https://github.com/bluegravitystudios/free-engines.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2051%402x.png" height="40" alt="Free Platforms"  /></a>
+  <a href="https://github.com/bluegravitystudios/gamedev-101.md" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2056%402x.png" height="40" alt="GameDev 101"  /></a>
+  <a href="https://github.com/bluegravitystudios/learning-resources.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2052%402x.png" height="40" alt="Learning Resources"  /></a>
+  <a href="https://github.com/bluegravitystudios/game-dev-news" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2053%402x.png" height="40" alt="GameDev News"  /></a>
+</div>
+
+###Table of Contents
 
 |Summary|  
 |:----------------------------------| 
