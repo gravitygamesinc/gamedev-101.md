@@ -16,7 +16,7 @@ Didn't find what you were looking for? Check out our other repos!
   <a href="https://github.com/bluegravitystudios/game-dev-news" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2053%402x.png" height="40" alt="GameDev News"  /></a>
 </div>
 
-###Table of Contents
+### Table of Contents
 
 |Summary|  
 |:----------------------------------| 
