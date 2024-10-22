@@ -144,5 +144,10 @@ If you're still interested in getting to know more about Game Development, Blue 
 🧱 [Game Development Free Resources](https://github.com/bluegravitystudios/gamedev-free-resources) – A rich library of free assets, including art, sound, and music for your projects.  
 🌐 [Game Development News](https://github.com/bluegravitystudios/game-dev-news/blob/main/README.md) - This repository features a curated list of gaming forums and news sources to keep you updated.  
 
+###
 
-[![Return](https://img.shields.io/badge/Return-README-808080?style=for-the-badge&logoColor=black)](https://github.com/bluegravitystudios/bgs-gamedev-repo/blob/main/README.md)
+[//]: #Buttons
+<div align="center">
+  <a href="https://github.com/bluegravitystudios" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2044.png" height="40" alt="Back home"  /></a>
+  <a href="https://github.com/bluegravitystudios/gamedev-101.md/edit/main/README.md#-game-development-101" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2045.png" height="40" alt="Back top"  /></a>
+</div>
