@@ -1,4 +1,4 @@
-![GameDev101](https://github.com/bluegravitystudios/gamedev-101.md/blob/main/gamedev_101.png)
+![GameDev101](https://github.com/gravitygamesinc/gamedev-101.md/blob/main/gamedev_101.png)
 
 #  🎓 Game Development 101
 
@@ -9,29 +9,29 @@ Didn't find what you were looking for? Check out our other repos!
 
 [//]: #Repos
 <div align="lef">
-  <a href="https://github.com/bluegravitystudios/gamedev-free-resources" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2049%402x.png" height="40" alt="Free Assets"  /></a>
-  <a href="https://github.com/bluegravitystudios/free-engines.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2050%402x.png" height="40" alt="Free Platforms"  /></a>
-  <a href="https://github.com/bluegravitystudios/gamedev-101.md" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2056%402x.png" height="40" alt="GameDev 101"  /></a>
-  <a href="https://github.com/bluegravitystudios/learning-resources.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2052%402x.png" height="40" alt="Learning Resources"  /></a>
-  <a href="https://github.com/bluegravitystudios/game-dev-news" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2053%402x.png" height="40" alt="GameDev News"  /></a>
+  <a href="https://github.com/gravitygamesinc/gamedev-free-resources" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2049%402x.png" height="40" alt="Free Assets"  /></a>
+  <a href="https://github.com/gravitygamesinc/free-engines.md"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2050%402x.png" height="40" alt="Free Platforms"  /></a>
+  <a href="https://github.com/gravitygamesinc/gamedev-101.md" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2056%402x.png" height="40" alt="GameDev 101"  /></a>
+  <a href="https://github.com/gravitygamesinc/learning-resources.md"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2052%402x.png" height="40" alt="Learning Resources"  /></a>
+  <a href="https://github.com/gravitygamesinc/game-dev-news" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2053%402x.png" height="40" alt="GameDev News"  /></a>
 </div>
 
 ### Table of Contents
 
 |Summary|  
 |:----------------------------------| 
-|🖌 [Development Stages](https://github.com/bluegravitystudios/gamedev-101.md#-development-stages)|
-|🦾 [Development Team](https://github.com/bluegravitystudios/gamedev-101.md#-development-team)|
-|👀 [Get to know more](https://github.com/bluegravitystudios/gamedev-101.md#-get-to-now-more)|
+|🖌 [Development Stages](https://github.com/gravitygamesinc/gamedev-101.md#-development-stages)|
+|🦾 [Development Team](https://github.com/gravitygamesinc/gamedev-101.md#-development-team)|
+|👀 [Get to know more](https://github.com/gravitygamesinc/gamedev-101.md#-get-to-now-more)|
 
 ## 🖌 Development Stages
 
 There are many ways to develop a game, and each studio/developer has its own process, but they can be classified into 3 stages:  
 
-![Imagem](https://github.com/bluegravitystudios/gamedev-101.md/blob/main/ProductionPhases.png)
+![Imagem](https://github.com/gravitygamesinc/gamedev-101.md/blob/main/ProductionPhases.png)
 
 ## 🖌 Pre-production  
-Pre-production is where your game truly begins. During this phase, you’ll develop the game's core concept, define its mechanics, and outline the overall structure. You’ll also make important decisions like which technology stack to use (e.g., Unity, Unreal Engine), assigning roles within your team, and start creating early prototypes. This is the foundation of your game, and the more thorough your planning here, the smoother the production phase will be.  
+Pre-production is where your game truly begins. During this phase, you’ll develop the game's core concept, define its mechanics, and outline the overall structure. You’ll also make important decisions like which technology stack to use (e.g., Unity, Unreal Engine), assign roles within your team, and start creating early prototypes. This is the foundation of your game, and the more thorough your planning here, the smoother the production phase will be.  
 
 **Common Steps**  
 - Concept development and brainstorming.  
@@ -69,7 +69,7 @@ Audio designers create and mix sounds for everything from ambient background mus
 **Common Tools**
  Digital Audio Workstations (DAWs), sound libraries, and audio editing software like Audacity and Wwise.
 
- **Begginer guide**  
+ **Beginner guide**  
 - [Game Audio Learning](https://www.gameaudiolearning.com/learningroadmap) - Fundamentals of how game audio works, the tools we use to record, synthesize and manipulate it as well as the actual process of doing so.  
 - [Game Audio 101](https://www.youtube.com/watch?v=Rx9VhOaa8N8) - Fundamentals of how interactive audio works to develop the right mindset and foundation to learn technical sound design.  
 - [Wwise Fundamentals](https://www.audiokinetic.com/en/learning/learn-wwise/wwise-fundamentals) - All you need to get started with Wwise.  
@@ -84,9 +84,9 @@ The producer is primarily responsible for project management. They coordinate th
 **Common Tools**  
 To oversee the entire project, producers may use project management software such as Asana, Monday, or Trello.
 
-**Begginer guide**  
+**Beginner guide**  
 - [Udemy: An Introduction To Video Game Production](https://www.udemy.com/course/an-introduction-to-video-game-production/) -  This course goes beyond the technical aspects, offering an introduction to video game production as a whole.
-- [Introduction to Asana for Absolute Beginners](https://www.youtube.com/watch?v=yyn7FfHKO90) - Walk through setting up a project and the project management features you can use to help you work move your work forward more efficiently.
+- [Introduction to Asana for Absolute Beginners](https://www.youtube.com/watch?v=yyn7FfHKO90) - Walk through setting up a project and the project management features you can use to help you move your work forward more efficiently.
 
 ## 💻 Developer
 Game developers are responsible for coding and implementing the game’s systems and functionalities. They work to turn the design vision into functional code, handling technical aspects such as physics, AI, gameplay, and performance optimization.
@@ -94,7 +94,7 @@ Game developers are responsible for coding and implementing the game’s systems
 **Common Tools**  
 Developers commonly use integrated development environments (IDEs) such as Visual Studio to code and a game engine, like Unity and Unreal Engine to gather all assets and build the game.
 
-**Begginer guide**  
+**Beginner guide**  
 - [3D Beginner: John Lemon](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-learn-3d-beginner-john-lemon-tutorial-resources-143848) -  A Unity learning resource for 3D beginners, likely featuring tutorials on creating the character John Lemon.  
 - [Epic Games: Game Development and Prototyping](https://www.coursera.org/learn/game-development-and-prototyping) -  Learn the fundamentals of game development and rapid prototyping with Epic Games.  
 - [Epic Games: Unreal Engine Fundamentals](https://www.coursera.org/learn/unreal-engine-fundamentals) -  Get started with Unreal Engine through this foundational course by Epic Games.  
@@ -112,8 +112,8 @@ Developers commonly use integrated development environments (IDEs) such as Visua
 **Common Tools**  
 2D artists often use software like Adobe Photoshop, Illustrator, or Krita for creating sprites and UI elements. 3D artists typically work with tools such as Blender, Maya, or 3ds Max for modeling and animation. Both roles might use Substance Painter for texturing and Unity or Unreal Engine to integrate their assets.
 
-**Begginer guide**  
-- [Blender Begginer Guide Part 1](https://www.youtube.com/watch?v=jnj2BL4chaQ&list=PLn3ukorJv4vuU3ILv3g3xnUyEGOQR-D8J) -  Playlist is a beginner guide to learning Blender, a powerful 3D modeling and animation software.  
+**Beginner guide**  
+- [Blender Beginner Guide Part 1](https://www.youtube.com/watch?v=jnj2BL4chaQ&list=PLn3ukorJv4vuU3ILv3g3xnUyEGOQR-D8J) -  Playlist is a beginner guide to learning Blender, a powerful 3D modelling and animation software.  
 - [Cuphead's Animation Process and Philosophy](https://www.youtube.com/watch?v=RmGb-jU3uVQ) -  Very interesting knowledge but not as transferrable to our work. Still a very interesting watch.  
 - [Pixel Art Tutorial](https://www.deviantart.com/gasara/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783) -  Pixel art for beginners. It discusses what pixel art is and how to make it.  
 - [Udemy: 2D Game Art for Non-Artists](https://www.udemy.com/course/2d-game-art-for-non-artists/) -  If you're not a seasoned artist but want to create 2D game art, this course can help you get started.  
@@ -122,7 +122,7 @@ Developers commonly use integrated development environments (IDEs) such as Visua
 - [Udemy: Digital paint series](https://www.udemy.com/course/digital-painting-series-ep0-dragon-bust/) -  Digital painting techniques, potentially useful for creating game art.  
 - [Udemy: Easy way to create 2d game art](https://www.udemy.com/course/draw-the-sword-easy-way-to-create-2d-game-art-in-30-minutes/) -  A quick course on creating basic 2D game art in just 30 minutes.  
 - [Udemy: Getting started in 3D Animation](https://www.udemy.com/course/learn-3d-animation-in-just-2-weeks/) -  This course aims to get you started with 3D animation in just two weeks.  
-- [Udemy: Maya - Character Head Modeling for Beginners](https://www.udemy.com/course/learn-maya-character-head-modeling-for-beginners/) -  Learn the basics of modeling character heads in Maya, a 3D animation software.  
+- [Udemy: Maya - Character Head Modeling for Beginners](https://www.udemy.com/course/learn-maya-character-head-modeling-for-beginners/) -  Learn the basics of modelling character heads in Maya, a 3D animation software.  
 - [Udemy: Substance Painter Basics for Beginners](https://www.udemy.com/course/substance-painter-basics-for-beginners/) -  Learn the fundamentals of texturing 3D models using Substance Painter in this beginner-friendly Udemy course.  
 
 ## 🕹 Game Designer
@@ -142,25 +142,18 @@ Game designers often use tools like Unity or Unreal Engine for prototyping, alon
 The QA team ensures the game works correctly by testing it for bugs, glitches, and performance issues. They document any problems and work with developers to fix them before the game’s release.
 
 **Common Tools**  
-QA teams frequently use bug tracking software such as JIRA or even creating a specific board view on Project Management software such as Asana.
+QA teams frequently use bug-tracking software such as JIRA or even creating a specific board view on Project Management software such as Asana.
 
-**Begginer guide**  
+**Beginner guide**  
 - [Ultimate Guide for Testers](https://www.udemy.com/course/software-testing-guide/) - Learn software testing basics. Introduction to the process, bugs, different lifecycles, test strategy & planning.  
 - [What is QA?](https://www.youtube.com/watch?v=oBipFAVwTWs&list=PLNvmTlrQ-tBUrtqZ7T29KIS7lu8IPdOOG) - Playlist of videos that show what is QA in the gaming industry and what are different types of testing!  
-- [Game QA/Testing Short Course](https://www.udemy.com/course/game-qatesting-short-course/) - This course is a conference level detailed short course, for complete coverage of Game Testing and Game QA details.  
+- [Game QA/Testing Short Course](https://www.udemy.com/course/game-qatesting-short-course/) - This course is a conference-level detailed short course, for complete coverage of Game Testing and Game QA details.  
 
-
-# 👀 Get to know more
-If you're still interested in getting to know more about Game Development, Blue Gravity Studios created a series of repositories to help you on your journey.  
-📚 [Learning Resources](https://github.com/bluegravitystudios/learning-resources.md) – A curated collection of books, courses, and tutorials to help you expand your skills.  
-⚙ [Free Engines](https://github.com/bluegravitystudios/free-engines.md) – A selection of powerful, free-to-use game engines like Unity, Unreal Engine, and Godot.  
-🧱 [Game Development Free Resources](https://github.com/bluegravitystudios/gamedev-free-resources) – A rich library of free assets, including art, sound, and music for your projects.  
-🌐 [Game Development News](https://github.com/bluegravitystudios/game-dev-news/blob/main/README.md) - This repository features a curated list of gaming forums and news sources to keep you updated.  
 
 ###
 
 [//]: #Buttons
 <div align="center">
-  <a href="https://github.com/bluegravitystudios" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2044.png" height="40" alt="Back home"  /></a>
-  <a href="https://github.com/bluegravitystudios/gamedev-101.md?tab=readme-ov-file#-game-development-101" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2045.png" height="40" alt="Back top"  /></a>
+  <a href="https://github.com/gravitygamesinc" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2044.png" height="40" alt="Back home"  /></a>
+  <a href="https://github.com/gravitygamesinc/gamedev-101.md?tab=readme-ov-file#-game-development-101" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2045.png" height="40" alt="Back top"  /></a>
 </div>
